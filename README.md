@@ -31,21 +31,22 @@ Here are the key milestones I want to achieve during this challenge:
 
 | Day | Date       | Summary                                       | Links                 |
 |-----|------------|-----------------------------------------------|-----------------------|
-| 1   | 2025-01-01 |
-| 2   | 2025-02-01 |
-| 3   | 2025-03-01 |
-| 4   | 2025-04-01 |
-| 5   | 2025-05-01 |
-| 6   | 2025-06-01 |
-| 7   | 2025-07-01 |
-| 8   | 2025-08-01 |
-| 9   | 2025-09-01 |
+| 1   | 2025-01-01 | | |
+| 2   | 2025-02-01 | | |
+| 3   | 2025-03-01 | | |
+| 4   | 2025-04-01 | | |
+| 5   | 2025-05-01 | | |
+| 6   | 2025-06-01 | | |
+| 7   | 2025-07-01 | | |
+| 8   | 2025-08-01 | | |
+| 9   | 2025-09-01 | | |
 
 ## Projects
 
 This section will list notable projects completed during the challenge:
 
 ### Project #: TBD
+
 - **Description**:
 - **Technologies Used**:
 - **Link**:
