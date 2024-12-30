@@ -25,6 +25,30 @@ Here are the key milestones I want to achieve during this challenge:
 - [ ] Learn basic testing (unit tests, integration tests).
 - [ ] Finish started projects.
 
+## How to Use This Repository
+
+1. **Explore the Daily Logs**:
+   Navigate to the `logs/` folder to read detailed daily entries.
+   
+3. **View Code Examples**:
+   Check the `frontend/` and `backend/` folders for source code.
+   
+5. **Follow Along**:
+   Use the checklist above to see what I've achieved so far.
+   
+7. **New Challenges**:
+   When a new challenge begins, revisit the `README.md` for updated goals and progress.
+
+## Projects
+
+This section will list notable projects completed during the challenge:
+
+### Project #: TBD
+
+- **Description**:
+- **Technologies Used**:
+- **Link**:
+   
 ## Daily Log
 
 *Logs and links will be updated daily.*
@@ -40,27 +64,6 @@ Here are the key milestones I want to achieve during this challenge:
 | 7   | 2025-07-01 | | |
 | 8   | 2025-08-01 | | |
 | 9   | 2025-09-01 | | |
-
-## Projects
-
-This section will list notable projects completed during the challenge:
-
-### Project #: TBD
-
-- **Description**:
-- **Technologies Used**:
-- **Link**:
-
-## How to Use This Repository
-
-1. **Explore the Daily Logs**:
-   Navigate to the `logs/` folder to read detailed daily entries.
-2. **View Code Examples**:
-   Check the `frontend/` and `backend/` folders for source code.
-3. **Follow Along**:
-   Use the checklist above to see what I've achieved so far.
-4. **New Challenges**:
-   When a new challenge begins, revisit the `README.md` for updated goals and progress.
 
 ## Connect with Me
 
