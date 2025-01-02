@@ -11,11 +11,13 @@
   - `.findIndex()` returns the index of the first element of an array that satisfies a condition in the callback function. It returns `-1` if none of the elements in the array satisfies the condition.
   - `.reduce()` iterates through an array and takes the values of the elements and returns a single value.
   - All iterator methods take a callback function, which can be a pre-defined function, a function expression, or an arrow function.
+  - Completed the Grammar Checker project on-platform.
 - 
 
 ## Challenges
 
 **JS Iterators** | I've been using the ES6 implementation exclusively to get used to the major shorthand. Reading and using the traditional function syntax is much easier to me, but I need to understand the different ways.
+
 **Colmar Academy Project** | The only challenge I had when completing this project was the amount of time it took me to be able to sit down and finish it after starting in early December. This is the final project of the [Build  a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites) course at [Codecademy](https://www.codecademy.com).
 
 ## Links
