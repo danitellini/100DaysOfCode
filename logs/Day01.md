@@ -12,13 +12,14 @@
   - `.reduce()` iterates through an array and takes the values of the elements and returns a single value.
   - All iterator methods take a callback function, which can be a pre-defined function, a function expression, or an arrow function.
   - Completed the Grammar Checker project on-platform.
-- 
+- Colmar Academy Project
+  - Finished a bit of the banner
 
 ## Challenges
 
 **JS Iterators** | I've been using the ES6 implementation exclusively to get used to the major shorthand. Reading and using the traditional function syntax is much easier to me, but I need to understand the different ways.
 
-**Colmar Academy Project** | The only challenge I had when completing this project was the amount of time it took me to be able to sit down and finish it after starting in early December. This is the final project of the [Build  a Website with HTML, CSS, and GitHub Pages](https://www.codecademy.com/enrolled/paths/learn-how-to-build-websites) course at [Codecademy](https://www.codecademy.com).
+**Colmar Academy Project** | I'm having trouble getting the banner container to act appropriately with the text size. It keeps resizing the picture when it shouldn't when I adjust the margins/padding.
 
 ## Links
 
@@ -29,4 +30,4 @@
 
 ## Next Steps
 
-- Complete [Challenge Project: Company Home Page with Flexbox](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-improved-styling-with-css/tracks/fecj-22-making-a-website-responsive/modules/wdcp-22-company-home-page-f62c81a5-8c5d-431a-8378-05f9f8e01451/projects/company-page-with-flexbox)
+- Complete Colmar Academy
