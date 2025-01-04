@@ -29,14 +29,14 @@ Here are the key milestones I want to achieve during this challenge:
 
 1. **Explore the Daily Logs**:
    Navigate to the `logs/` folder to read detailed daily entries.
-   
-3. **View Code Examples**:
+
+2. **View Code Examples**:
    Check the `frontend/` and `backend/` folders for source code.
-   
-5. **Follow Along**:
+
+3. **Follow Along**:
    Use the checklist above to see what I've achieved so far.
-   
-7. **New Challenges**:
+
+4. **New Challenges**:
    When a new challenge begins, revisit the `README.md` for updated goals and progress.
 
 ## Projects
@@ -48,12 +48,13 @@ This section will list notable projects completed during the challenge:
 - **Description**:
 - **Technologies Used**:
 - **Link**:
-   
+
 ## Daily Log
 
 *Logs and links will be updated daily.*
 
 <details>
+
 <summary>Click to view log</summary>
 
 | Day | Date       | Summary                                       | Links                 |
