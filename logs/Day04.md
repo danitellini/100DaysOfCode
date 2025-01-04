@@ -19,5 +19,5 @@
 
 - Continue Colmar Academy project
 
-[!NOTE]
+> [!NOTE]
 Complete Step 7 of the CP project to further practice
