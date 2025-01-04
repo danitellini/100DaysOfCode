@@ -18,3 +18,6 @@
 - [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
 
 ## Next Steps
+
+- Challenge Project: Credit Card Checker
+- Continue with Colmar Academy
