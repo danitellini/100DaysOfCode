@@ -18,3 +18,4 @@
 ## Next Steps
 
 - Continue Colmar Academy project
+- Complete Step 7 of the CP project to further practice
