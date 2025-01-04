@@ -55,7 +55,7 @@ This section will list notable projects completed during the challenge:
 
 | Day | Date       | Summary                                       | Links                 |
 |-----|------------|-----------------------------------------------|-----------------------|
-| 1   | 2025-01-01 | | |
+| 1   | 2025-01-01 |Studied JavaScript iterators and began the Colmar Academy Project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs%2FDay01.md) [Files](|
 | 2   | 2025-02-01 | | |
 | 3   | 2025-03-01 | | |
 | 4   | 2025-04-01 | | |
