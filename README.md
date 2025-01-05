@@ -63,7 +63,7 @@ This section will list notable projects completed during the challenge:
 | 2   | 2025-02-01 | Learned JavaScript debugging; no progress on Colmar Academy project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs%2FDay02.md) |
 | 3   | 2025-03-01 | Practiced JavaScript methods and objects; began Credit Card Checker project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs%2FDay03.md) |
 | 4   | 2025-04-01 | Completed Credit Card Checker and Mysterious Organism projects | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day04.md) [Files](https://github.com/danitellini/100DaysOfCode/tree/main/frontend/Day04) |
-| 5   | 2025-05-01 | | |
+| 5   | 2025-05-01 | Completed Lodash project; reviewed Flexbox, continued Colmar Academy Project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day05.md) [Files](https://github.com/danitellini/100DaysOfCode/blob/main/frontend/Day05/) |
 | 6   | 2025-06-01 | | |
 | 7   | 2025-07-01 | | |
 | 8   | 2025-08-01 | | |
