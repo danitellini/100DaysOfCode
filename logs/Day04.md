@@ -5,6 +5,7 @@
 ## What I Learned
 
 - Completed the Challenge Project: Credit Card Checker
+- Completed the Challenge Project: Mysterious Organism
 
 ## Challenges
 
@@ -12,12 +13,14 @@
 
 ## Links
 
-- 
+- [Credit Card Checker](../frontend/Day04/CPCreditCardChecker/CPCreditCardChecker.js)
+- [Mysterious Organism](../frontend/Day04/CPMysteriousOrganism/main.js)
 - [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
 
 ## Next Steps
 
 - Continue Colmar Academy project
+- Codecademy Project - Create your own library of methods - Lodash
 
 > [!NOTE]
-Complete Step 7 of the CP project to further practice
+Complete Step 7 of the Credit Card Checker project and Step 9 of Mysterious Organism project to further practice
