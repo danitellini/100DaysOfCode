@@ -1,4 +1,4 @@
-# Day 6: 6 January 2025
+# Day 6: 7 January 2025
 
 > **Goal**: Complete Company Home Page Project
 
