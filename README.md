@@ -66,9 +66,10 @@ This section will list notable projects completed during the challenge:
 | 5   | 2025-05-01 | Completed Lodash project; reviewed Flexbox, started Company Home Page Project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day05.md) [Files](https://github.com/danitellini/100DaysOfCode/blob/main/frontend/Day05/) |
 | -   | ---------- | ----------------------------------------- MISSED ----------------------------------------- | ------ |
 | 6   | 2025-07-01 | Completed Company Home Page Project | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day06.md) [File](https://github.com/danitellini/100DaysOfCode/blob/main/frontend/Day05/CPCompanyHomePagewithFlexbox) |
-| 7   | 2025-08-01 | | |
-| 8   | 2025-09-01 | | |
-| 9   | 2025-10-01 | | |
+| 7   | 2025-08-01 | Began learning DOM manipulation; explored script loading attributes | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day07.md) |
+| 8   | 2025-09-01 | Continued DOM study | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day08.md) |
+| 9   | 2025-10-01 | Learned DOM element selection and manipulation methods in JS | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day09.md) |
+| 10  | 2025-11-01 | Explored DOM events; started Piano Keys project with initial challenges | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day10.md) |
 
 </details>
 
