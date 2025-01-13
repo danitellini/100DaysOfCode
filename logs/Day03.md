@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Colmar Academy project.
 
-## What I Learned
+## What I Accomplished
 
 - Benefits of pair programming
 - Practiced JavaScript methods (`.forEach()`, `.map()`, `.sort()`, `.filter()`, `.includes()`, `.every()`. `.indexOf()`)

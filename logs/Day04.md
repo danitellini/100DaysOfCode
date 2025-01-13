@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Colmar Academy project
 
-## What I Learned
+## What I Accomplished
 
 - Completed the Challenge Project: Credit Card Checker
 - Completed the Challenge Project: Mysterious Organism

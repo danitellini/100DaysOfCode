@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Company Home Page Project
 
-## What I Learned
+## What I Accomplished
 
 - Completed CP: Company Home Page
 

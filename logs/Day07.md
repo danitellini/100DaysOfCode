@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Responsive Club Website project
 
-## What I Learned
+## What I Accomplished
 
 - Started learning about the DOM
   - `<script src='example.js'></script>`

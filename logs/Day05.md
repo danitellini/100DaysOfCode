@@ -2,7 +2,7 @@
 
 > **Goal**: ~Complete Colmar Academy Project~
 
-## What I Learned
+## What I Accomplished
 
 - Completed the Lodash Project
 - Finished the JavaScript Syntax Part II

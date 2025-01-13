@@ -1,14 +1,14 @@
-# Day 8: 9 January 2025
+# Day 11: 12 January 2025
 
 > **Goal**: Complete Responsive Club Website project
 
 ## What I Accomplished
 
-- Continued with DOM
-  - Document Object Model - structural modelof a web page; mimics HTML nesting structure
-  - DOM allows access to the attributes of an HTML element
+- Did some more work on the Piano Keys project
 
-## ~Challenges~
+## Challenges
+
+**Piano Keys** | Tried to continue, but still got stuck. Will watch video.
 
 ## Links
 
@@ -17,4 +17,4 @@
 ## Next Steps
 
 - Responsive Club Website
-- JavaScript/DOM
+- Piano Keys project
