@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Responsive Club Website project
 
-## What I Learned
+## What I Accomplished
 
 - DOM Events with JS
   - `.addEventListener` method registers events to DOM elements

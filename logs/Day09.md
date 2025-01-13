@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Responsive Club Website project
 
-## What I Learned
+## What I Accomplished
 
 - `document` keyword grants access to root of DOM in JS
 - `.querySelector()` method in DOM interface allows to select a specific element with CSS selectors

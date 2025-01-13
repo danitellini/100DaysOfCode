@@ -2,7 +2,7 @@
 
 > **Goal**: Complete the Colmar Academy project.
 
-## What I Learned
+## What I Accomplished
 
 - JavaScript Debugging
   - Learned how to go about debugging JS code via MDN, Stack Overflow, and the stack trace.

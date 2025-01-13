@@ -2,7 +2,7 @@
 
 > **Goal**: Complete Responsive Club Website project
 
-## What I Learned
+## What I Accomplished
 
 - Continued with DOM
   - Document Object Model - structural modelof a web page; mimics HTML nesting structure
