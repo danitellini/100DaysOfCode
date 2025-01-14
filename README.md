@@ -70,6 +70,8 @@ This section will list notable projects completed during the challenge:
 | 8   | 2025-09-01 | Continued DOM study | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day08.md) |
 | 9   | 2025-10-01 | Learned DOM element selection and manipulation methods in JS | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day09.md) |
 | 10  | 2025-11-01 | Explored DOM events; started Piano Keys project with initial challenges | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day10.md) |
+| 11  | 2025-12-01 | Attempted the Piano Keys project again, still having difficulties | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day11.md) |
+| 12  | 2025-13-01 | Started wireframes for first client, began learning the process | [Log](https://github.com/danitellini/100DaysOfCode/blob/main/logs/Day12.md) |
 
 </details>
 
